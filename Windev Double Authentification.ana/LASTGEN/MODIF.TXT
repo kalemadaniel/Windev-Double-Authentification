@@ -1,0 +1,2 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+tb_Utilisateur		NFI		nouveau fichier de données

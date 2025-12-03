@@ -1,0 +1,3 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+tb_Utilisateur		TAR	94	nouvelle taille enregistrement : 94
+tb_Utilisateur	MotDePasse	CNW	Mémo texte$Mot de passe	la rubrique MotDePasse a pour nouveau type Mémo texte

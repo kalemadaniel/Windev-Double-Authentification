@@ -29,7 +29,11 @@ L’utilisateur commence par créer un compte pour pouvoir activer la double aut
 Un QR Code est généré automatiquement.  
 L’utilisateur peut le scanner avec :  
 - Google Authenticator  
-- Microsoft Authenticator  
+- Microsoft Authenticator
+
+![IMG_3262](https://github.com/user-attachments/assets/8064e337-6706-4313-9989-3e3e8284c7c8)
+
+
 - ou toute application compatible **TOTP / RFC 6238**
 
 <img width="493" height="526" alt="Capture d&#39;écran 2025-12-03 164910" src="https://github.com/user-attachments/assets/c619f393-99d8-4ed2-9d4d-6cddedcd6cf2" />

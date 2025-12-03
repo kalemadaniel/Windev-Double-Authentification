@@ -47,7 +47,7 @@ Après avoir scanné le QR Code, l’utilisateur doit entrer son **code TOTP à 
 
 ---
 
-<img width="503" height="165" alt="Capture d&#39;écran 2025-12-03 165139" src="https://github.com/user-attachments/assets/97a45202-6857-4445-b9c3-e6ad8f0683fb" />
+<img width="450" height="337" alt="Capture d&#39;écran 2025-12-03 170904" src="https://github.com/user-attachments/assets/d7f81d6d-b726-4b42-87a2-058a30269da3" />
 
 
 ## 🔧 Technologies utilisées

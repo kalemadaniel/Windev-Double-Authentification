@@ -27,6 +27,8 @@ L’utilisateur commence par créer un compte pour pouvoir activer la double aut
 
 ### 🔑 Activation de la double authentification (TOTP)
 Un QR Code est généré automatiquement.  
+<img width="493" height="526" alt="Capture d&#39;écran 2025-12-03 164910" src="https://github.com/user-attachments/assets/2fdf17b1-f40c-4eec-94b4-07ae8695c771" />
+
 L’utilisateur peut le scanner avec :  
 - Google Authenticator  
 - Microsoft Authenticator
@@ -41,12 +43,14 @@ L’utilisateur peut le scanner avec :
 ### 🧾 Saisie du code de vérification
 Après avoir scanné le QR Code, l’utilisateur doit entrer son **code TOTP à 6 chiffres** pour se connecter.
 
-<img width="450" height="337" alt="Capture d&#39;écran 2025-12-03 165128" src="https://github.com/user-attachments/assets/5c72fcc2-1645-4c8e-8dbc-66029e2068df" />
-
----
-
 <img width="450" height="337" alt="Capture d&#39;écran 2025-12-03 170904" src="https://github.com/user-attachments/assets/d7f81d6d-b726-4b42-87a2-058a30269da3" />
 
+Si les 6 chiffres correspondent alors, le programme valide le Token du MFA et valide l'authentification
+
+<img width="503" height="165" alt="Capture d&#39;écran 2025-12-03 165139" src="https://github.com/user-attachments/assets/dc6dd68f-b224-47e7-936e-53bdd735e0f0" />
+
+
+---
 
 ## 🔧 Technologies utilisées
 

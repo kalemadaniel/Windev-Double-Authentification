@@ -36,8 +36,6 @@ L’utilisateur peut le scanner avec :
 
 - ou toute application compatible **TOTP / RFC 6238**
 
-<img width="493" height="526" alt="Capture d&#39;écran 2025-12-03 164910" src="https://github.com/user-attachments/assets/c619f393-99d8-4ed2-9d4d-6cddedcd6cf2" />
-
 ---
 
 ### 🧾 Saisie du code de vérification
